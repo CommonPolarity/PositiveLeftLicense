@@ -1,4 +1,4 @@
-# Positive Left License v1.0
+# Positive Left License v2.0
 The **Positive Left License** is a license I created initially for my website. It is relatively simple in it's goals:
 - To promote copyleft ideals similar to the GPL
 - Allow for proper action to be taken against discriminatory and defamatory content
